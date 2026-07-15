@@ -1,0 +1,1 @@
+# kvgfinanceapp-privacy-policy
