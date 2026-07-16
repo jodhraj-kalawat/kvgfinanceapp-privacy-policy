@@ -45,7 +45,7 @@ The app displays ads served by Google AdMob. AdMob may use device advertising id
 
 ## Children's privacy
 
-KVG Finance Tracker is not directed at children and is not intended for use by anyone under 18.
+KVG Finance Tracker is not directed at children and is not intended for use by anyone under 15.
 
 ## Changes to this policy
 
