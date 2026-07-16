@@ -1,1 +1,1 @@
-# KVG Finance Tracaker App Privacy Policy
+# KVG Finance Tracker App Privacy Policy
